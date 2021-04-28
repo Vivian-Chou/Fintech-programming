@@ -7,7 +7,6 @@
 
 ## 📌Learning Progress
 ### Homework
-
->* 期末專案
+[期末專案](./final_project)
 
 
