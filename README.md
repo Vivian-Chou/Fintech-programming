@@ -1,4 +1,4 @@
-# Fintech-programming
+# Fintech-programming-fund
 
 
 ## 📌About Course
