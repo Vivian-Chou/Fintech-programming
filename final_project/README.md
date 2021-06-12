@@ -12,4 +12,6 @@
 (***基金績效低於大盤指數可先排除***)
 
     考量指標：Beta﹑夏普值﹑標準差﹑績效﹑漲跌幅﹑淨值﹑基金績效是否低於大盤指數
-   
+  
+### 簡報連結
+[https://docs.google.com/presentation/d/1xoPP-A6Y1aTIbS1jLrXIuU6q_TtsJglSPvBsNhwsLmc/edit?usp=sharing](https://docs.google.com/presentation/d/1xoPP-A6Y1aTIbS1jLrXIuU6q_TtsJglSPvBsNhwsLmc/edit?usp=sharing)
